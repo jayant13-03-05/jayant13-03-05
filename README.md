@@ -18,8 +18,8 @@ Here are a few highlights from my repositories:
 ![Jayant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ## 💬 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/jayant-saxena-5b5b41281)
 - [Portfolio](https://yourportfolio.com)
-- [Email](mailto:your.email@example.com)
+- [Email](mailto:jayantsaxena1303@gmail.com)
 
 Thanks for visiting! 🙌
