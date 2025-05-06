@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Jayant Saxena!
 
-<!--
-**jayant13-03-05/jayant13-03-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who enjoys building things that solve real-world problems. Whether it's a simple script or a full-stack app, I love turning ideas into code.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages:** JavaScript, Python, C++, Java
+- **Web:** React, Node.js, Express, HTML, CSS,bootstrap
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Tools & Platforms:** Git, Docker, Linux, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+Here are a few highlights from my repositories:
+- 🛠️ [Project Name](link): Short description of what it does.
+- 🌐 [Another Project](link): Description or purpose of the project.
+- 📱 [Mobile App](link): If you have any mobile work or cross-platform tools.
+
+## 📈 GitHub Stats
+![Jayant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 💬 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Portfolio](https://yourportfolio.com)
+- [Email](mailto:your.email@example.com)
+
+Thanks for visiting! 🙌
