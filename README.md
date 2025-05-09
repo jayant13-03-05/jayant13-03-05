@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jayant Saxena!
 
-Welcome to my GitHub profile! I'm a passionate developer who enjoys building things that solve real-world problems. Whether it's a simple script or a full-stack app, I love turning ideas into code.
+Welcome to my GitHub profile! I'm a passionate  Web developer who enjoys building things that solve real-world problems. Whether it's a simple script or a full-stack app, I love turning ideas into code.
 
 ## 🔧 Tech Stack
 - **Languages:** JavaScript, Python, C++, Java
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building thi
 
 ## 📌 Projects
 Here are a few highlights from my repositories:
-- 🛠️ [Project Name](link): Short description of what it does.
+- 🛠️ [Student Management](https://github.com/jayant13-03-05/StudentManagement): Designed and implemented a Course Enrollment Database in SQL to manage students, courses, enrollments, and performance analytics.
 - 🌐 [Another Project](link): Description or purpose of the project.
 - 📱 [Mobile App](link): If you have any mobile work or cross-platform tools.
 
