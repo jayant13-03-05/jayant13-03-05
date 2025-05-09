@@ -19,7 +19,7 @@ Here are a few highlights from my repositories:
 
 ## 💬 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/jayant-saxena-5b5b41281)
-- [Portfolio](https://yourportfolio.com)
+- [Portfolio](https://jayantsaxena.my.canva.site/)
 - [Email](mailto:jayantsaxena1303@gmail.com)
 
 Thanks for visiting! 🙌
