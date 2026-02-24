@@ -24,6 +24,7 @@ Whether it's a simple script or a full-stack application, I love turning ideas i
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-Android-purple?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 <p align="center">
