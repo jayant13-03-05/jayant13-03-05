@@ -27,10 +27,12 @@ Whether it's a simple script or a full-stack application, I love turning ideas i
 </p>
 
 <p align="center">
-  <!-- Web -->
+  <!-- Web / Frameworks -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -50,7 +52,6 @@ Whether it's a simple script or a full-stack application, I love turning ideas i
   <img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
-
 ---
 
 ## 🚀 Featured Projects
