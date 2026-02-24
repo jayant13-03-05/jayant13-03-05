@@ -16,32 +16,40 @@ Whether it's a simple script or a full-stack application, I love turning ideas i
 
 ---
 
-## 🔧 Tech Stack
+## 🛠 Tech Stack
 
-### 💻 Languages
-- JavaScript  
-- Python  
-- C++  
-- Java  
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
 
-### 🌐 Web
-- React  
-- Node.js  
-- Express  
-- HTML  
-- CSS  
-- Bootstrap  
+<p align="center">
+  <!-- Web -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-### 🗄 Databases
-- MongoDB  
-- PostgreSQL  
-- MySQL  
+<p align="center">
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-### ⚙ Tools & Platforms
-- Git  
-- Docker  
-- Linux  
-- VS Code  
+<p align="center">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
