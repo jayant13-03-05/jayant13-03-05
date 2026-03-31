@@ -57,6 +57,14 @@ Whether it's a simple script or a full-stack application, I love turning ideas i
 
 ## 🚀 Featured Projects
 
+---
+
+### 🛠 AI Interview
+
+🔗 https://github.com/jayant13-03-05/ai-interview  
+
+An AI-powered interview preparation platform that simulates real interview scenarios, evaluates responses, and helps users improve their communication and problem-solving skills.
+
 ### 🛠 Student Management  
 🔗 https://github.com/jayant13-03-05/StudentManagement  
 
